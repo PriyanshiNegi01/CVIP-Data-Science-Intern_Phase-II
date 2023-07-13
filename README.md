@@ -1,15 +1,12 @@
 # CVIP-Data-Science-Intern_Phase-II
 
-<h2>Projects</h2>
-<ol>
-  <li>Email Spam Detection</li>
-  <!--<li></li>-->
-</ol>
+## Projects
+1. Email Spam Detection
+2. Speech Emotion Recognition
 
-<h2>Tools Used</h2>
-<ol>
-  <li>Python programming language</li>
-  <li>Numpy and Pandas for exploratory analysis</li>
-  <li>Matplotlib for data visualization</li>
-  <li>Jupyter notebook as IDE</li>
-</ol>
+## Tools Used
+1. Python programming language
+2. Numpy and Pandas for exploratory analysis
+3. Matplotlib for data visualization
+4. Jupyter notebook as IDE
+  
