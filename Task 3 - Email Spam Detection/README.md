@@ -1,6 +1,6 @@
 # Project: Email Spam Detection
 
-The project focuses on conducting Exploratory Data Analysis (EDA) on the Global Terrorism Dataset. The primary objective of this project is to classify an email into the spam or not spam. 
+The project focuses on conducting Email Spam Detection. It is a binary classification problem. The primary objective of this project is to classify an email into the spam or not spam. 
 
 ## Tools Used
 
